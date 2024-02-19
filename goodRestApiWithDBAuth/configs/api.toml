@@ -1,0 +1,6 @@
+[web-server]
+ bind_addr = ":8080"
+ logger_level = "debug"
+
+[storage]
+database_uri = "host=localhost:1433 server=DESKTOP-6CDIL8P dbname=MyLocalDB"
